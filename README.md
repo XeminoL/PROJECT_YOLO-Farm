@@ -216,14 +216,6 @@ On the PC side, the YOLO model:
 3. Draws boxes + labels on the frame and shows the live result.
 4. (Optional) Logs detections or pushes alerts somewhere of your choice.
 
----
-
-## Authors
-
-- **XeminoL** — [GitHub Profile](https://github.com/XeminoL)
-
----
-
 ## License
 
 This project is released for educational and research purposes. Feel free to fork, study, and modify.
